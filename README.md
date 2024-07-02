@@ -1,4 +1,4 @@
-# Clustering-Based Ground Motion Selection 
+# Ground Motion Clustering and Selection 
 We developed a clustering-based ground motion (GM) selection method that can properly identify representative GM records to match the conditional spectra that a structure will probabilistically experience. The developed GM selection method includes four main steps: 1) leveraging domain-specific knowledge to pre-select candidate GMs; 2) using a convolutional autoencoder to learn low-dimensional underlying characteristics of candidate GMs’ response spectra – i.e., latent features; 3) performing k-means clustering to classify the learned latent features, equivalent to cluster the response spectra of candidate GMs; and 4) embedding the clusters in the conditional spectra-based GM selection. The selected GMs can match the conditional spectra’s mean and variability well while fully describing the candidate GMs.
 
 For more information, please refer to the following:
