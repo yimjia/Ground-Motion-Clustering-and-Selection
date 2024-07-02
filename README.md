@@ -11,4 +11,4 @@ The "Model" folder includes the codes and a step-by-step instruction to use the 
 
 The "Example" folder includes the code, data, and instruction to reproduce the GM selection presented in Section 4.1 of the above-mentioned paper.
 
-Note that the codes are run on Python 3.10.14 (Tensorflow 2.13.1 required), and Matlab R2023b. The authors recommend running Python codes on Jupyter Notebook. Running the codes on different versions of Python, Tensorflow, or Matlab may result in compatibility issues. However, most potential compatibility issues can be easily resolved by following the suggestions in the error messages (e.g., syntax update).
+Note that the codes are run on Python 3.10.14 (Tensorflow 2.13.1 required), and Matlab R2023b. The authors recommend running Python codes on Jupyter Notebook. Running the codes on different versions of Python, Tensorflow, or Matlab may result in compatibility issues. However, most potential compatibility issues can be easily resolved by following the suggestions in the error messages.
