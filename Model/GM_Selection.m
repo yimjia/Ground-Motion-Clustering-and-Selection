@@ -245,13 +245,6 @@ for p = 1:length(Comb)
                            LogSa_NonPulse_Clu{o,1}(GMID_NP{p,1}{o,1},:)];
     end
 
-    % LogSa_Sel{p,1} = [LogSa_Pulse_Clu{1,1}(GMID_P{p,1}{1,1},:)
-    %                   LogSa_Pulse_Clu{2,1}(GMID_P{p,1}{2,1},:)
-    %                   LogSa_Pulse_Clu{3,1}(GMID_P{p,1}{3,1},:)
-    %                   LogSa_NonPulse_Clu{1,1}(GMID_NP{p,1}{1,1},:)
-    %                   LogSa_NonPulse_Clu{2,1}(GMID_NP{p,1}{2,1},:)
-    %                   LogSa_NonPulse_Clu{2,1}(GMID_NP{p,1}{3,1},:)];
-
     Mean_LogSa_Sel{p,1} = mean(LogSa_Sel{p,1});
     
     for j = 1:length(LogSa_Sel{p,1}(1,:))
