@@ -6,7 +6,9 @@ For more information, please refer to the following:
 Jia, Y., and Sasani, M. (2024). "Convolutional Autoencoder-Based Ground Motion Clustering and Selection", In Review (will be available after this paper is published). 
 <br/><br/>
 
-As prerequisites, users need to have knowledge of earthquake engineering to perform step one GM pre-selection and have access to run Python and Matlab codes. No advanced training in machine learning is required to perform the developed clustering-based GM selection. 
+As prerequisites, users need to have knowledge of earthquake engineering to perform step one GM pre-selection and have access to run Python and Matlab codes. No training in machine learning is required to perform the developed clustering-based GM selection. 
+
+To download the codes, pleaase navigate to the main page of this repository. Above the list of files, click Code and click Download ZIP. 
 
 The "Model" folder includes the codes and a step-by-step instruction to use the developed clustering-based GM selection. 
 
