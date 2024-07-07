@@ -9,7 +9,7 @@ As **prerequisites**, users need to have knowledge of earthquake engineering to 
 
 To **download** the codes, please navigate to the main page of this repository, click the green **Code** button, and in the menu that appears, click **Download ZIP**. 
 
-The **Model** folder includes the codes to perform the developed clustering-based GM selection and a step-by-step instruction. 
+The **Model** folder includes the codes to perform the developed clustering-based GM selection and a </ins>step-by-step instruction</ins>. 
 
 The **Example** folder includes the codes, data, and an instruction to reproduce the GM selection presented in Section 4.1 of the above-mentioned paper.
 <br/><br/>
