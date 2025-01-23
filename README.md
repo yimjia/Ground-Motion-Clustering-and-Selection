@@ -2,7 +2,7 @@
 We developed a clustering algorithm as part of a ground motion (GM) selection method that can properly identify representative GM records to match the conditional spectra that a structure will probabilistically experience. The developed GM selection method includes four main steps: 1) leveraging domain-specific knowledge to pre-select candidate GMs; 2) using a convolutional autoencoder to learn low-dimensional underlying characteristics of candidate GMs’ response spectra – i.e., latent features; 3) performing k-means clustering to classify the learned latent features, equivalent to cluster the response spectra of candidate GMs; and 4) embedding the clusters in the conditional spectra-based GM selection. The selected GMs can match the conditional spectra’s mean and variability well while fully describing the candidate GMs.
 
 For more information, please refer to the following:\
-Jia, Y., and Sasani, M. (2024). "Convolutional Autoencoder-Based Ground Motion Clustering and Selection", In Review (will be available after this paper is published). 
+Jia, Y., and Sasani, M. (2025). "Convolutional Autoencoder-Based Ground Motion Clustering and Selection", Soil Dynamics and Earthquake Engineering, 191: 109240 (https://www.sciencedirect.com/science/article/pii/S0267726125000338).
 <br/><br/>
 
 As **prerequisites**, users need to have knowledge of earthquake engineering to perform step one GM pre-selection and have access to run Python and Matlab codes. No training in machine learning is required to perform the developed clustering-based GM selection. 
