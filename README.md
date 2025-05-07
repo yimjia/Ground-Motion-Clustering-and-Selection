@@ -5,7 +5,7 @@ For more information, please refer to the following:\
 Jia, Y., and Sasani, M. (2025). "Convolutional Autoencoder-Based Ground Motion Clustering and Selection", *Soil Dynamics and Earthquake Engineering*, 191: 109240 (https://www.sciencedirect.com/science/article/pii/S0267726125000338).
 <br/><br/>
 
-As **prerequisites**, users need to have knowledge of earthquake engineering to perform step one GM pre-selection and have access to run Python and Matlab codes. No training in machine learning is required to perform the developed clustering-based GM selection. 
+As **prerequisites**, users need to have knowledge of earthquake engineering to perform step one GM pre-selection and have access to run Python and MATLAB codes. No training in machine learning is required to perform the developed clustering-based GM selection. 
 
 To **download** the codes, please navigate to the main page of this repository, click the green **Code** button, and in the menu that appears, click **Download ZIP**. 
 
@@ -14,4 +14,4 @@ The **Model** folder includes the *codes* to perform the developed clustering-ba
 The **Example** folder includes the *codes*, *data*, and an *instruction* to reproduce the GM selection presented in Section 4.1 of the above-mentioned paper.
 <br/><br/>
 
-Note that the codes were run on Python 3.10.14 (TensorFlow 2.13.1 required) and Matlab R2023b (Curve Fitting Toolbox, Econometrics Toolbox, and Sensor Fusion and Tracking Toolbox required). The authors recommend running the Python codes on Jupyter Notebook. Running the codes on different versions of Python, TensorFlow, or Matlab may result in compatibility issues. However, most compatibility issues can be resolved by following the suggestions in the error messages.
+Note that the codes were run on Python 3.10.14 (TensorFlow 2.13.1 required) and MATLAB R2023b (Curve Fitting Toolbox, Econometrics Toolbox, and Sensor Fusion and Tracking Toolbox required). The authors recommend running the Python codes on Jupyter Notebook. Running the codes on different versions of Python, TensorFlow, or MATLAB may result in compatibility issues. However, most compatibility issues can be resolved by following the suggestions in the error messages.
